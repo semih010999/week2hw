@@ -1,0 +1,15 @@
+C:\Users\semih\Desktop\c#\bosproje\bosproje\bin\Debug\net6.0\week1hw.exe
+C:\Users\semih\Desktop\c#\bosproje\bosproje\bin\Debug\net6.0\week1hw.deps.json
+C:\Users\semih\Desktop\c#\bosproje\bosproje\bin\Debug\net6.0\week1hw.runtimeconfig.json
+C:\Users\semih\Desktop\c#\bosproje\bosproje\bin\Debug\net6.0\week1hw.dll
+C:\Users\semih\Desktop\c#\bosproje\bosproje\bin\Debug\net6.0\week1hw.pdb
+C:\Users\semih\Desktop\c#\bosproje\bosproje\obj\Debug\net6.0\week1hw.csproj.AssemblyReference.cache
+C:\Users\semih\Desktop\c#\bosproje\bosproje\obj\Debug\net6.0\week1hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semih\Desktop\c#\bosproje\bosproje\obj\Debug\net6.0\week1hw.AssemblyInfoInputs.cache
+C:\Users\semih\Desktop\c#\bosproje\bosproje\obj\Debug\net6.0\week1hw.AssemblyInfo.cs
+C:\Users\semih\Desktop\c#\bosproje\bosproje\obj\Debug\net6.0\week1hw.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\c#\bosproje\bosproje\obj\Debug\net6.0\week1hw.dll
+C:\Users\semih\Desktop\c#\bosproje\bosproje\obj\Debug\net6.0\refint\week1hw.dll
+C:\Users\semih\Desktop\c#\bosproje\bosproje\obj\Debug\net6.0\week1hw.pdb
+C:\Users\semih\Desktop\c#\bosproje\bosproje\obj\Debug\net6.0\week1hw.genruntimeconfig.cache
+C:\Users\semih\Desktop\c#\bosproje\bosproje\obj\Debug\net6.0\ref\week1hw.dll
